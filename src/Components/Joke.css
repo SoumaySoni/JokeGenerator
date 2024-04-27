@@ -1,0 +1,22 @@
+/* Joke.css */
+
+body {
+	background-image: linear-gradient(rgb(220, 125, 125),rgb(164, 118, 197),rgb(82, 82, 190),rgb(107, 226, 107));
+    background-attachment: fixed;
+}
+
+.joke {
+	width: auto;
+	height: auto;
+	margin: auto;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	color: beige; 
+}
+
+h1 {
+	text-align: center;
+	color: beige;
+}
